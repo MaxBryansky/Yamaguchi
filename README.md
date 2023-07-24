@@ -3,4 +3,4 @@
 - CSS 3
 - GSAP
   
-Can you view [project] ()
+Can you view [project] (https://maxbryansky.github.io/Yamaguchi/)
